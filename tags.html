@@ -51,7 +51,7 @@ function parse(val) {
     return result;
 }
 function scroll(val) {
-  var element = document.getElementById(tag);
+  var element = document.getElementById(val);
   if(element != null) {
     element.scrollIntoView(false);
     window.scrollBy(0, -50);
