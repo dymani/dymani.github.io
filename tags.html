@@ -53,7 +53,7 @@ function parse(val) {
 function scroll(val) {
   var element = document.getElementById(tag);
   if(element != null) {
-    element.scrollIntoView();
+    element.scrollIntoView(false);
   }
 }
 var tag = parse('tag');
