@@ -5,7 +5,7 @@ permalink: /tags.html
 exclude_from_nav: true
 ---
 
-<div style="margin: 5rem auto auto auto;" onload="load()">
+<div style="margin: 5rem auto auto auto;" onload="loadTag()">
 <div class="tags-pagee">
 <ul class="tags" style="padding:0     margin-bottom: 20px;">
 	  {% for tag in site.tags %}
@@ -57,11 +57,11 @@ function scroll(val) {
     window.scroll(0, -50);
   }
 }
-function load() {
+function loadTag() {
   var tag = parse('tag');
   if(tag != "Not found") {
     scroll(tag);
   }
 }
-load();
+loadTag();
 </script>
