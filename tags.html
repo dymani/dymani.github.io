@@ -5,7 +5,7 @@ permalink: /tags.html
 exclude_from_nav: true
 ---
 
-<div style="margin: 5rem auto auto auto;">
+<div style="margin: 5rem auto auto auto;" onload="load()">
 <div class="tags-pagee">
 <ul class="tags" style="padding:0     margin-bottom: 20px;">
 	  {% for tag in site.tags %}
@@ -41,7 +41,7 @@ function parse(val) {
     var result = "Not found",
         tmp = [];
     location.search
-    .replace ( "?", "" )
+    .replace ( "?", "")
     .substr(1)
         .split("&")
         .forEach(function (item) {
@@ -54,10 +54,14 @@ function scroll(val) {
   var element = document.getElementById(tag);
   if(element != null) {
     element.scrollIntoView(false);
+    window.scroll(0, -50);
   }
 }
-var tag = parse('tag');
-if(tag != "Not found") {
-  scroll(tag);
+function load() {
+  var tag = parse('tag');
+  if(tag != "Not found") {
+    scroll(tag);
+  }
 }
+load();
 </script>
