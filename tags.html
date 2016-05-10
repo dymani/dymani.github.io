@@ -10,7 +10,7 @@ exclude_from_nav: true
 <ul class="tags" style="padding:0     margin-bottom: 20px;">
 	  {% for tag in site.tags %}
   <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
-    <a id="route" href="scroll(#{{ tag | first | slugize }})">
+    <a id="route" href="javascript:scroll(#{{ tag | first | slugize }})">
       {{ tag | first }}
       <span>{{ tag | last | size }}</span>
     </a>
