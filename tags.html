@@ -10,7 +10,7 @@ exclude_from_nav: true
 <ul class="tags" style="padding:0     margin-bottom: 20px;">
 	  {% for tag in site.tags %}
   <li style="font-size: {{ tag | last | size | times: 100 | divided_by: site.tags.size | plus: 70  }}%">
-    <a id="route" href="#{{ tag | first | slugize }}">
+    <a id="route" href="scroll(#{{ tag | first | slugize }})">
       {{ tag | first }}
       <span>{{ tag | last | size }}</span>
     </a>
@@ -35,3 +35,29 @@ exclude_from_nav: true
 {% endfor %}
 </div>
 </div>
+
+<script type="text/javascript">
+function parse(val) {
+    var result = "Not found",
+        tmp = [];
+    location.search
+    .replace ( "?", "" )
+    .substr(1)
+        .split("&")
+        .forEach(function (item) {
+        tmp = item.split("=");
+        if (tmp[0] === val) result = decodeURIComponent(tmp[1]);
+    });
+    return result;
+}
+function scroll(val) {
+  var element = document.getElementById(tag);
+  if(element != null) {
+    element.scrollIntoView();
+  }
+}
+var tag = parse('tag');
+if(tag != "Not found") {
+  scroll(tag);
+}
+</script>
