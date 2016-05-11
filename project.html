@@ -2,6 +2,7 @@
 layout: default
 title: Project
 permalink: /project.html
+comments: true
 ---
 <div style="margin: 1rem auto;">
 
@@ -44,6 +45,9 @@ permalink: /project.html
             </a>   
          
          </div>
+         {% if page.comments %}
+           {% include disqus.html %}
+         {% endif %}
       </div>    
  
       {% endif %}        
