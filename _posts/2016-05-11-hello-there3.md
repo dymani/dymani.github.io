@@ -21,8 +21,6 @@ image:
 
 This is the template I used. Dark Kimochi Theme by Spaghetti.
 
-<!--asldkjfhasldfkjhasldkfjhalskdjfhalksa adslfkjahlkjdshf asdfhjlasdkjfhalsk asdlfkjhasdlkfja asldkfjahsdilua asdflkjasdfhlaksjd asdflkjadshflaksjdfh adslkfjhaldsfkjh-->
-
 <h3>I finally have a devblog!</h3>
 
 This is my first blog and I want to post more about<!--break--> my gamedev life on here.
