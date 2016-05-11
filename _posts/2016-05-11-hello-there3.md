@@ -20,10 +20,12 @@ image:
 ![](/assets/image/blog_setup.png)
 
 This is the template I used. Dark Kimochi Theme by Spaghetti.
+
 <!--asldkjfhasldfkjhasldkfjhalskdjfhalksa adslfkjahlkjdshf asdfhjlasdkjfhalsk asdlfkjhasdlkfja asldkfjahsdilua asdflkjasdfhlaksjd asdflkjadshflaksjdfh adslkfjhaldsfkjh-->
+
 <h3>I finally have a devblog!</h3>
 
-This is my first blog and I want to post more about my gamedev life on here.
+This is my first blog and I want to post more about<!--break--> my gamedev life on here.
 
 I set up this devblog right before my Chinese test. Lol
 
