@@ -14,9 +14,6 @@ image:
     url: /assets/image/blog_setup_thumb.png
 ---
 
-
-
-
 ![](/assets/image/blog_setup.png)
 
 This is the template I used. Dark Kimochi Theme by Spaghetti.
@@ -25,13 +22,14 @@ This is the template I used. Dark Kimochi Theme by Spaghetti.
 
 This is my first blog and I want to post more about my gamedev life on here.
 
-I set up this devblog right before my Chinese test. Lol
+I set up this devblog right yesterday night, just before my Chinese test. Lol<!--break-->
 
 I still have to tweak the colours and styles of the page though.
-<!--break-->
+
 By the way, I am having my final exams really soon, so I won't be working on my projects as well as updating this blog as often. I will have more time at the end of June.
 
 Anyway, hope you'll enjoy my blog! Remeber to check out my games! ;)
 
 dymani
+
 2016-05-11
