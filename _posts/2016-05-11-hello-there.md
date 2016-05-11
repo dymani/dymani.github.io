@@ -11,7 +11,7 @@ categories:
 - project
 
 image: 
-    url: /assets/image/blog_setup.png
+    url: /assets/image/blog_setup_thumb.png
 ---
 
 
