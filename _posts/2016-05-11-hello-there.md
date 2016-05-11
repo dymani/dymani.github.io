@@ -18,7 +18,7 @@ image:
 
 
 ![](/assets/image/blog_setup.png)
-<!--sdfkjahsdlfkjahdsflkjahdsflkjadshflkjahdsflkaslkdjfhasdlkjfhasldkfjhasldkjfhaldskjfhj-->
+
 This is the template I used. Dark Kimochi Theme by Spaghetti.
 
 <h3>I finally have a devblog!</h3>
