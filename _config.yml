@@ -9,13 +9,16 @@
 title: dymani's devblog
 email: 
 description: > # this means to ignore newlines until "baseurl:"
-  dymani's devblog. All about gamedev.
+  dymani's devblog. All about gamedev and life.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://dymani.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  dymani
 facebook_username:  
 disqus_id:
+favicon: "/assets/image/icon.ico"
+
+highlighter: rouge
 
 # Gems
 gems: 
