@@ -52,7 +52,9 @@ The player can fly around in the game to collect points and power-ups.
 
 It's still not very fun for me, but it's (kind of) a complete game with some pixel arts and sounds.
 
-You can try it here: [GitHub Repository](https://github.com/dymani/Aviate)
+You can check it out here: 
+[GitHub Repository](https://github.com/dymani/Aviate)
+[Direct download (.zip)](https://github.com/dymani/Aviate/raw/master/Aviate%20v1.0.zip)
 
 <h4>Brain Burst 2039</h4>
 
