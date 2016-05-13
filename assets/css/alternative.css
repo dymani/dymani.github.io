@@ -24,7 +24,7 @@ figure {
 }
 
 body {
-    font: 400 21px/1.5 gidole;
+    font: 400 16px/1.5 gidole;
     color: #fff;
     background-color: #222222;
     -webkit-text-size-adjust: 100%;
@@ -106,7 +106,7 @@ blockquote>:last-child {
 
 pre,
 code {
-    font-size: 16px;
+    font-size: 15px;
     background-color: #222;
 }
 
@@ -158,15 +158,15 @@ pre>code {
 }
 
 .post-header .post-title a {
-    font-size: 25px;
+    font-size: 20px;
 }
 
 .post-excerpt p {
-    font-size: 16px;
+    font-size: 14px;
 }
 
 .post-meta {
-    font-size: 14px;
+    font-size: 10px;
     color: #828282;
 }
 
@@ -186,7 +186,7 @@ pre>code {
 .tags-date {
     float: right;
     margin-top: -35px;
-    font-size: 14px;
+    font-size: 12px;
     color: #828282;
 }
 
@@ -481,7 +481,7 @@ ul {
     height: 30px;
 }
 .inpost-title {
-        font-size: 32px;
+        font-size: 25px;
     letter-spacing: -1px;
     float: left;
 }
@@ -594,7 +594,7 @@ ul {
 }
 
 .footer-heading {
-    font-size: 20px;
+    font-size: 18px;
     margin-bottom: 15px;
 }
 
@@ -605,7 +605,7 @@ ul {
 }
 
 .footer-col-wrapper {
-    font-size: 18px;
+    font-size: 15px;
     color: #828282;
     margin-left: -15px;
 }

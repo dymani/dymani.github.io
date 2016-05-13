@@ -16,7 +16,7 @@ image:
 
 ![](/assets/image/blog/blog_12-05-16_blog.png)
 
-<small align="right">This is the template I used. Dark Kimochi Theme by Spaghetti.</small>
+<p align="right">This is the template I used. Dark Kimochi Theme by Spaghetti.</p>
 
 This is my first blog and I want to post more about my gamedev life on here. I set up this devblog yesterday night, just before my Chinese test. Lol. I still have to tweak the colours and styles of the page though.<!--break-->
 
