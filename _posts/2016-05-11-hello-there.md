@@ -16,7 +16,7 @@ image:
 
 <h3>I finally have a devblog!</h3>
 <hr>
-<br><!--title-->
+<br><!--break-->
 
 ![](/assets/image/blog/blog_12-05-16_blog.png)
 

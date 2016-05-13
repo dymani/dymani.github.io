@@ -22,8 +22,8 @@ layout: default
     </header>
     <section class="post-excerpt">
         <p>{% assign body = post.content | split: '<!--break-->' %}
-           {{ body[1] }}
-               {% if collections.frontpage.products.size > 2 %}
+               {{ body[1] }}
+               {% if body.size > 2 %}
                    ...<br><a id="route" class="read-more" href="{{ post.url | prepend: site.baseurl }}">» Read More</a>
                {% endif %}
         </p>
