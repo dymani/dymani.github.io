@@ -31,9 +31,7 @@ In this blog post, I will talk about some progress I made before I set up this d
 
 ![](/assets/image/blog/blog_13-05-16_snake.png)
 
-Remaking Snake is the goal for my first few games in wirtten in C++.
-
-I first wrote two ASCII-based Snake clones. The first one is terrible since the scaling is all wrong.The second one is better in my opinion.
+Remaking Snake is the goal for my first few games in wirtten in C++. I first wrote two ASCII-based Snake clones. The first one is terrible since the scaling is all wrong.The second one is better in my opinion.
 
 I made the third one using SFML and the graphics is much better. Still a simple game though. The fourth one is just the same game but with different textures.
 
@@ -44,9 +42,7 @@ I made the third one using SFML and the graphics is much better. Still a simple 
 
 ![](/assets/image/blog/blog_13-05-16_mazy.png)
 
-After making a few clones of Snake, I made this maze game called Mazy (stupid name :P).
-
-In this game, the player just needs to avoid hitting the enemies to get coins.
+After making a few clones of Snake, I made this maze game called Mazy (stupid name :P). In this game, the player just needs to avoid hitting the enemies to get coins.
 
 It is my first trial to make a game that loads contents dynamically and I learnt a lot through making this.
 
@@ -57,11 +53,7 @@ It is my first trial to make a game that loads contents dynamically and I learnt
 
 ![](/assets/image/blog/blog_13-05-16_aviate.png)
 
-This is a side project I made during making another game called Brain Burst 2039, which I will talk about later in this post.
-
-The player can fly around in the game to collect points and power-ups.
-
-It's still not very fun for me, but it's (kind of) a complete game with some pixel arts and sounds.
+This is a side project I made during making another game called Brain Burst 2039, which I will talk about later in this post. The player can fly around in the game to collect points and power-ups. It's still not very fun for me, but it's (kind of) a complete game with some pixel arts and sounds.
 
 You can check it out here: 
 [GitHub Repository](https://github.com/dymani/Aviate)
@@ -74,13 +66,9 @@ You can check it out here:
 
 ![](/assets/image/blog/blog_13-05-16_bb2039.png)
 
-It is a game that I started planning long time ago but it is still under development now.
+It is a game that I started planning long time ago but it is still under development now. It was once a 2D top-down adventure game, but I found a 2D side scroller is easier to make and more fun to me.
 
-It was once a 2D top-down adventure game, but I found a 2D side scroller is easier to make and more fun to me.
-
-This is a game based on Accel World, an anime / light novel series by Kawahara Reki.
-
-I love this series so much that I decided to make a game about it. <3 <3
+This is a game based on Accel World, an anime / light novel series by Kawahara Reki. I love this series so much that I decided to make a game about it. <3 <3
 
 To know more, you can check out my these links.
 
