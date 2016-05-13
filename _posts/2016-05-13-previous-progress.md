@@ -80,9 +80,7 @@ To know more, you can check out my these links.
 <b><h3>To conclude...</h3></b>
 <br>
 
-That's all the stuff I made before making this devblog. I will write a post here once I have new progress to show you.
-
-See you! :)
+That's all the stuff I made before making this devblog. I will write a post here once I have new progress to show you. See you! :)
 
 dymani
 
