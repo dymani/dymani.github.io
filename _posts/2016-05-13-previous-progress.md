@@ -34,7 +34,7 @@ I made the third one using SFML and the graphics is much better. Still a simple 
 
 <h4>Mazy</h4>
 
-![](/assets/image/blog_13-05-16_mazy.png)
+![](/assets/image/blog/blog_13-05-16_mazy.png)
 
 After making a few clones of Snake, I make this maze game called Mazy (stupid name :P).
 
@@ -44,7 +44,7 @@ It is my first trial to make a game that loads contents dynamically and I learnt
 
 <h4>Aviate</h4>
 
-![](/assets/image/blog_13-05-16_aviate.png)
+![](/assets/image/blog/blog_13-05-16_aviate.png)
 
 This is a side project I made during making another game called Brain Burst 2039, which I will talk about later in this post.
 
@@ -56,7 +56,7 @@ You can try it here: [GitHub Repository](https://github.com/dymani/Aviate)
 
 <h4>Brain Burst 2039</h4>
 
-![](/assets/image/blog_13-05-16_bb2039.png)
+![](/assets/image/blog/blog_13-05-16_bb2039.png)
 
 It is a game that I started planning long time ago but it is still under development now.
 
