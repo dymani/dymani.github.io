@@ -14,7 +14,7 @@ image:
     url: /assets/image/thumb/blog_11-05-16_thumb.png
 ---
 
-![](/assets/image/blog_12-05-16_blog.png)
+![](/assets/image/blog/blog_12-05-16_blog.png)
 
 <small>This is the template I used. Dark Kimochi Theme by Spaghetti.</small>
 
