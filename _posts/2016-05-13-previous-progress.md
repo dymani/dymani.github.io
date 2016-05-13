@@ -16,7 +16,7 @@ image:
     url: /assets/image/thumb/blog_13-05-16_thumb.png
 ---
 
-![](/assets/image/blog/blog_13-05-16.png)
+![](/assets/image/blog/blog_12-05-16_blog.png)
 
 <h3>Previous progress</h3>
 
