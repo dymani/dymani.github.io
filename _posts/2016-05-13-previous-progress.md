@@ -18,11 +18,11 @@ image:
 
 <h3>Previous progress</h3>
 <hr>
-<br><!--title-->
+<br><!--break-->
 
 ![](/assets/image/blog/blog_13-05-16.png)
 
-In this blog post, I will talk about some progress I made before I set up this devblog.<!--preview--> ;)
+In this blog post, I will talk about some progress I made before I set up this devblog.<!--break--> ;)
 
 <br>
 <h4>First game - Snake</h4>

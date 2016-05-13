@@ -21,12 +21,12 @@ layout: default
         <h2 class="post-title"><a id="route" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     </header>
     <section class="post-excerpt">
-        {% assign body = post.content | split: '<!--break-->' %}
-            <p>{{ body[1] }}
-                {% if collections.frontpage.products.size > 2 %}
-                ...<br><a id="route" class="read-more" href="{{ post.url | prepend: site.baseurl }}">» Read More</a>
-                {% endif %}
-            </p>
+        <p>{% assign body = post.content | split: '<!--break-->' %}
+           {{ body[1] }}
+               {% if collections.frontpage.products.size > 2 %}
+                   ...<br><a id="route" class="read-more" href="{{ post.url | prepend: site.baseurl }}">» Read More</a>
+               {% endif %}
+        </p>
     </section>
     
     </div>
