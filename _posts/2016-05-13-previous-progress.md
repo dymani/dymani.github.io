@@ -16,16 +16,12 @@ image:
     url: /assets/image/thumb/blog_13-05-16_thumb.png
 ---
 
-<h3>Previous progress</h3>
-<hr>
-<br><!--break-->
-
 ![](/assets/image/blog/blog_13-05-16.png)
 
 In this blog post, I will talk about some progress I made before I set up this devblog.<!--break--> ;)
 
 <br>
-<h4>First game - Snake</h4>
+<h3>First game - Snake</h3>
 <hr>
 <br>
 
@@ -36,7 +32,7 @@ Remaking Snake is the goal for my first few games in wirtten in C++. I first wro
 I made the third one using SFML and the graphics is much better. Still a simple game though. The fourth one is just the same game but with different textures.
 
 <br>
-<h4>Mazy</h4>
+<h3>Mazy</h3>
 <hr>
 <br>
 
@@ -47,7 +43,7 @@ After making a few clones of Snake, I made this maze game called Mazy (stupid na
 It is my first trial to make a game that loads contents dynamically and I learnt a lot through making this.
 
 <br>
-<h4>Aviate</h4>
+<h3>Aviate</h3>
 <hr>
 <br>
 
@@ -60,7 +56,7 @@ You can check it out here:
 [Direct download (.zip)](https://github.com/dymani/Aviate/raw/master/Aviate%20v1.0.zip)
 
 <br>
-<h4>Brain Burst 2039</h4>
+<h3>Brain Burst 2039</h3>
 <hr>
 <br>
 
@@ -85,7 +81,7 @@ To know more, you can check out my these links.
 [Trello board (New)](https://trello.com/b/Clfi3rJC/brain-burst-2039) Star this one if you want latest updates!
 
 <br>
-<h4>To conclude...</h4>
+<h3>To conclude...</h3>
 <hr>
 <br>
 
