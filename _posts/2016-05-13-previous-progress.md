@@ -23,7 +23,7 @@ In this blog post, I will talk about some progress I made before I set up this d
 <br>
 <b>
 <h3>First game - Snake</h3>
-<br>
+</b>
 
 ![](/assets/image/blog/blog_13-05-16_snake.png)
 
@@ -34,7 +34,7 @@ I made the third one using SFML and the graphics is much better. Still a simple 
 <br>
 <b>
 <h3>Mazy</h3>
-<br>
+</b>
 
 ![](/assets/image/blog/blog_13-05-16_mazy.png)
 
@@ -45,7 +45,7 @@ It is my first trial to make a game that loads contents dynamically and I learnt
 <br>
 <b>
 <h3>Aviate</h3>
-<br>
+</b>
 
 ![](/assets/image/blog/blog_13-05-16_aviate.png)
 
@@ -58,7 +58,7 @@ You can check it out here:
 <br>
 <b>
 <h3>Brain Burst 2039</h3>
-<br>
+</b>
 
 ![](/assets/image/blog/blog_13-05-16_bb2039.png)
 
@@ -83,7 +83,7 @@ To know more, you can check out my these links.
 <br>
 <b>
 <h3>To conclude...</h3>
-<br>
+</b>
 
 That's all the stuff I made before making this devblog. I will write a post here once I have new progress to show you. See you! :)
 
