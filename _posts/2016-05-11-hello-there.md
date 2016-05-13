@@ -17,14 +17,14 @@ image:
 <h3>I finally have a devblog!</h3>
 <hr>
 <br>
-<!--break-->
+
 ![](/assets/image/blog/blog_12-05-16_blog.png)
 
 <small align="right">This is the template I used. Dark Kimochi Theme by Spaghetti.</small>
 
 This is my first blog and I want to post more about my gamedev life on here.
 
-I set up this devblog yesterday night, just before my Chinese test. Lol<!--break-->
+I set up this devblog yesterday night, just before my Chinese test. Lol
 
 I still have to tweak the colours and styles of the page though.
 
