@@ -24,7 +24,7 @@ In this blog post, I will talk about some progress I made before I set up this d
 
 <h4>First game - Snake</h4>
 
-![](/assets/image/blog_13-05-16_snake.png)
+![](/assets/image/blog/blog_13-05-16_snake.png)
 
 Remaking Snake is the goal for my first few games in wirtten in C++.
 
