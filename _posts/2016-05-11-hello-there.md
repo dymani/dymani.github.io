@@ -17,7 +17,7 @@ image:
 <h3>I finally have a devblog!</h3>
 <hr>
 <br>
-
+<!--title-->
 ![](/assets/image/blog/blog_12-05-16_blog.png)
 
 <small align="right">This is the template I used. Dark Kimochi Theme by Spaghetti.</small>

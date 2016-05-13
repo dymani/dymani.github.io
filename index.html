@@ -21,13 +21,13 @@ layout: default
         <h2 class="post-title"><a id="route" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     </header>
     <section class="post-excerpt">
-        {% if post.content contains '<!--break-->' %}
-        <p>{{{{ post.content | split:'<!--break-->' | second }} | split:'<!--break-->' | first }}
-            {% if post.content contains '<!--break-->' %}
+        {% if post.content contains '<!--preview-->' %}
+        <p>{{ {{ post.content | split:'<!--title-->' | second }} | split:'<!--preview-->' | first }}
+            {% if post.content contains '<!--preview-->' %}
             ...<br><a id="route" class="read-more" href="{{ post.url | prepend: site.baseurl }}">» Read More</a></p>
             {% endif %}
         {% else %}
-            {{ post.content }}
+            {{ post.content | split:'<!--title-->' | second }}
         {% endif %}
     </section>
     
