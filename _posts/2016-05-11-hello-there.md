@@ -16,7 +16,7 @@ image:
 
 ![](/assets/image/blog/blog_12-05-16_blog.png)
 
-<small>This is the template I used. Dark Kimochi Theme by Spaghetti.</small>
+<small style="float: right;">This is the template I used. Dark Kimochi Theme by Spaghetti.</small>
 
 <h3>I finally have a devblog!</h3>
 
