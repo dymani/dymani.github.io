@@ -22,7 +22,7 @@ In this blog post, I will talk about some progress I made before I set up this d
 
 <br>
 <b>
-<h3>First game - Snake</h3></b>
+<h3>First game - Snake</h3>
 <br>
 
 ![](/assets/image/blog/blog_13-05-16_snake.png)
@@ -33,7 +33,7 @@ I made the third one using SFML and the graphics is much better. Still a simple 
 
 <br>
 <b>
-<h3>Mazy</h3> </b>
+<h3>Mazy</h3>
 <br>
 
 ![](/assets/image/blog/blog_13-05-16_mazy.png)
@@ -42,11 +42,10 @@ After making a few clones of Snake, I made this maze game called Mazy (stupid na
 
 It is my first trial to make a game that loads contents dynamically and I learnt a lot through making this.
 
-<b>
 <br>
+<b>
 <h3>Aviate</h3>
 <br>
-</b>
 
 ![](/assets/image/blog/blog_13-05-16_aviate.png)
 
@@ -84,7 +83,6 @@ To know more, you can check out my these links.
 <br>
 <b>
 <h3>To conclude...</h3>
-</b>
 <br>
 
 That's all the stuff I made before making this devblog. I will write a post here once I have new progress to show you. See you! :)
