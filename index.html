@@ -21,7 +21,7 @@ layout: default
         <h2 class="post-title"><a id="route" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     </header>
     <section class="post-excerpt">
-        <p>{{ post.content | split:'<!--break-->' | first }}
+        <p>{{ post.content | split:'<!--break-->' | second }}
             {% if post.content contains '<!--break-->' %}
             ...<br><a id="route" class="read-more" href="{{ post.url | prepend: site.baseurl }}">» Read More</a></p>
             {% endif %}
