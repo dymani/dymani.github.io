@@ -11,7 +11,7 @@ categories:
 - project
 
 image: 
-    url: /assets/image/blog_11-05-16_thumb.png
+    url: /assets/image/thumb/blog_11-05-16_thumb.png
 ---
 
 ![](/assets/image/blog_12-05-16_blog.png)
