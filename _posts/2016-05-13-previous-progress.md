@@ -18,6 +18,7 @@ image:
 
 <h3>Previous progress</h3>
 <hr>
+<br>
 
 ![](/assets/image/blog/blog_13-05-16.png)
 
