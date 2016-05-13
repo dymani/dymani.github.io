@@ -30,8 +30,7 @@ Remaking Snake is the goal for my first few games in wirtten in C++. I first wro
 I made the third one using SFML and the graphics is much better. Still a simple game though. The fourth one is just the same game but with different textures.
 
 <br>
-<b>
-<h3>Mazy</h3>
+<h3><b>Mazy</b></h3>
 
 ![](/assets/image/blog/blog_13-05-16_mazy.png)
 
@@ -40,8 +39,7 @@ After making a few clones of Snake, I made this maze game called Mazy (stupid na
 It is my first trial to make a game that loads contents dynamically and I learnt a lot through making this.
 
 <br>
-<b>
-<h3>Aviate</h3>
+<h3><b>Aviate</b></h3>
 
 ![](/assets/image/blog/blog_13-05-16_aviate.png)
 
@@ -52,8 +50,7 @@ You can check it out here:
 [Direct download (.zip)](https://github.com/dymani/Aviate/raw/master/Aviate%20v1.0.zip)
 
 <br>
-<b>
-<h3>Brain Burst 2039</h3>
+<h3><b>Brain Burst 2039</b></h3>
 
 ![](/assets/image/blog/blog_13-05-16_bb2039.png)
 
@@ -76,8 +73,7 @@ To know more, you can check out my these links.
 [Trello board (New)](https://trello.com/b/Clfi3rJC/brain-burst-2039) Star this one if you want latest updates!
 
 <br>
-<b>
-<h3>To conclude...</h3>
+<h3><b>To conclude...</b></h3>
 
 That's all the stuff I made before making this devblog. I will write a post here once I have new progress to show you. See you! :)
 
