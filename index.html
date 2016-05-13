@@ -21,13 +21,14 @@ layout: default
         <b><h2 class="post-title"><a id="route" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2></b>
     </header>
     <section class="post-excerpt">
-        <p>{% assign body = post.content | split: '<!--break-->' %}
-               {% if body.size > 2 %}
-                   {{ body[1] }}
-                   ...<br><a id="route" class="read-more" href="{{ post.url | prepend: site.baseurl }}">» Read More</a>
-               {% else %}
-                   {{ body[0] }}
-               {% endif %}
+
+        <p>
+            {% if post.content contains '<!--break-->' %}
+                {{ post.content | split:'<!--break-->' | first }}
+                ...<br><a id="route" class="read-more" href="{{ post.url | prepend: site.baseurl }}">» Read More</a>
+            {% else %}
+                {{ post.content }}
+            {% endif %}
         </p>
     </section>
     
