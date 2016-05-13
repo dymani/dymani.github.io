@@ -20,13 +20,13 @@ image:
 
 <h3>Previous progress</h3>
 
-In this blog post, I will talk about some progress I made before I set up this devblog. ;)
+In this blog post, I will talk about some progress I made before I set up this devblog.<!--break--> ;)
 
 <h4>First game - Snake</h4>
 
 ![](/assets/image/blog_setup.png)
 
-Remaking Snake is the goal for my first few games in wirtten in C++.<!--break-->
+Remaking Snake is the goal for my first few games in wirtten in C++.
 
 I first wrote two ASCII-based Snake clones. The first one is terrible since the scaling is all wrong.The second one is better in my opinion.
 
