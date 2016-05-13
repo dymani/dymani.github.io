@@ -24,9 +24,9 @@ image:
 
 In this blog post, I will talk about some progress I made before I set up this devblog.<!--break--> ;)
 
-<br>
 <h4>First game - Snake</h4>
 <hr>
+<br>
 
 ![](/assets/image/blog/blog_13-05-16_snake.png)
 
@@ -36,9 +36,9 @@ I first wrote two ASCII-based Snake clones. The first one is terrible since the 
 
 I made the third one using SFML and the graphics is much better. Still a simple game though. The fourth one is just the same game but with different textures.
 
-<br>
 <h4>Mazy</h4>
 <hr>
+<br>
 
 ![](/assets/image/blog/blog_13-05-16_mazy.png)
 
@@ -48,9 +48,9 @@ In this game, the player just needs to avoid hitting the enemies to get coins.
 
 It is my first trial to make a game that loads contents dynamically and I learnt a lot through making this.
 
-<br>
 <h4>Aviate</h4>
 <hr>
+<br>
 
 ![](/assets/image/blog/blog_13-05-16_aviate.png)
 
@@ -64,9 +64,9 @@ You can check it out here:
 [GitHub Repository](https://github.com/dymani/Aviate)
 [Direct download (.zip)](https://github.com/dymani/Aviate/raw/master/Aviate%20v1.0.zip)
 
-<br>
 <h4>Brain Burst 2039</h4>
 <hr>
+<br>
 
 ![](/assets/image/blog/blog_13-05-16_bb2039.png)
 
@@ -92,9 +92,9 @@ To know more, you can check out my these links.
 
 [Trello board (New)](https://trello.com/b/Clfi3rJC/brain-burst-2039) Star this one if you want latest updates!
 
-<br>
 <h4>To conclude...</h4>
 <hr>
+<br>
 
 That's all the stuff I made before making this devblog. I will write a post here once I have new progress to show you.
 

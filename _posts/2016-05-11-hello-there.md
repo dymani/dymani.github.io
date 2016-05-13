@@ -24,7 +24,7 @@ image:
 
 This is my first blog and I want to post more about my gamedev life on here.
 
-I set up this devblog yesterday night, just before my Chinese test. Lol
+I set up this devblog yesterday night, just before my Chinese test. Lol<!--break-->
 
 I still have to tweak the colours and styles of the page though.
 
