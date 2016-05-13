@@ -14,12 +14,12 @@ image:
     url: /assets/image/thumb/blog_11-05-16_thumb.png
 ---
 
-<small align="right">This is the template I used. Dark Kimochi Theme by Spaghetti.</small>
+<h3>I finally have a devblog!</h3>
+<hr>
 
 ![](/assets/image/blog/blog_12-05-16_blog.png)
 
-<h3>I finally have a devblog!</h3>
-<hr>
+<small align="right">This is the template I used. Dark Kimochi Theme by Spaghetti.</small>
 
 This is my first blog and I want to post more about my gamedev life on here.
 
