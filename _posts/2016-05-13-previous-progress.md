@@ -18,8 +18,8 @@ image:
 
 <h3>Previous progress</h3>
 <hr>
-<br>
-<!--title-->
+<br><!--title-->
+
 ![](/assets/image/blog/blog_13-05-16.png)
 
 In this blog post, I will talk about some progress I made before I set up this devblog.<!--preview--> ;)
