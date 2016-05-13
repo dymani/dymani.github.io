@@ -11,10 +11,10 @@ categories:
 - project
 
 image: 
-    url: /assets/image/blog_setup_thumb.png
+    url: /assets/image/blog_11-05-16_thumb.png
 ---
 
-![](/assets/image/blog_setup.png)
+![](/assets/image/blog_12-05-16_blog.png)
 
 <small>This is the template I used. Dark Kimochi Theme by Spaghetti.</small>
 

@@ -13,10 +13,10 @@ categories:
 - project
 
 image: 
-    url: /assets/image/blog_setup_thumb.png
+    url: /assets/image/thumb/blog_13-05-16_thumb.png
 ---
 
-![](/assets/image/blog_setup.png)
+![](/assets/image/blog/blog_13-05-16.png)
 
 <h3>Previous progress</h3>
 
@@ -24,7 +24,7 @@ In this blog post, I will talk about some progress I made before I set up this d
 
 <h4>First game - Snake</h4>
 
-![](/assets/image/blog_setup.png)
+![](/assets/image/blog_13-05-16_snake.png)
 
 Remaking Snake is the goal for my first few games in wirtten in C++.
 
@@ -34,7 +34,7 @@ I made the third one using SFML and the graphics is much better. Still a simple 
 
 <h4>Mazy</h4>
 
-![](/assets/image/blog_setup.png)
+![](/assets/image/blog_13-05-16_mazy.png)
 
 After making a few clones of Snake, I make this maze game called Mazy (stupid name :P).
 
@@ -44,7 +44,7 @@ It is my first trial to make a game that loads contents dynamically and I learnt
 
 <h4>Aviate</h4>
 
-![](/assets/image/blog_setup.png)
+![](/assets/image/blog_13-05-16_aviate.png)
 
 This is a side project I made during making another game called Brain Burst 2039, which I will talk about later in this post.
 
@@ -56,7 +56,7 @@ You can try it here: [GitHub Repository](https://github.com/dymani/Aviate)
 
 <h4>Brain Burst 2039</h4>
 
-![](/assets/image/blog_setup.png)
+![](/assets/image/blog_13-05-16_bb2039.png)
 
 It is a game that I started planning long time ago but it is still under development now.
 
@@ -82,7 +82,7 @@ To know more, you can check out my these links.
 
 <h4>To conclude...</h4>
 
-That's all the stuff I made before this devblog. I will make a post here once I have new progress to show you.
+That's all the stuff I made before making this devblog. I will write a post here once I have new progress to show you.
 
 See you! :)
 
