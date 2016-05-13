@@ -30,13 +30,13 @@ Remaking Snake is the goal for my first few games in wirtten in C++.
 
 I first wrote two ASCII-based Snake clones. The first one is terrible since the scaling is all wrong.The second one is better in my opinion.
 
-I made the third one using SFML and the graphics is much better. Still a simple game though.
+I made the third one using SFML and the graphics is much better. Still a simple game though. The fourth one is just the same game but with different textures.
 
 <h4>Mazy</h4>
 
 ![](/assets/image/blog/blog_13-05-16_mazy.png)
 
-After making a few clones of Snake, I make this maze game called Mazy (stupid name :P).
+After making a few clones of Snake, I made this maze game called Mazy (stupid name :P).
 
 In this game, the player just needs to avoid hitting the enemies to get coins.
 
