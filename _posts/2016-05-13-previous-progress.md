@@ -25,7 +25,7 @@ In this blog post, I will talk about some progress I made before I set up this d
 
 ![](/assets/image/blog/blog_13-05-16_snake.png)
 
-Remaking Snake is the goal for my first few games in wirtten in C++. I first wrote two ASCII-based Snake clones. The first one is terrible since the scaling is all wrong.The second one is better in my opinion.
+Remaking Snake was the goal for my first few games in wirtten in C++. I first wrote two ASCII-based Snake clones. The first one is terrible since the scaling is all wrong.The second one is better in my opinion.
 
 I made the third one using SFML and the graphics is much better. Still a simple game though. The fourth one is just the same game but with different textures.
 
@@ -46,7 +46,9 @@ It is my first trial to make a game that loads contents dynamically and I learnt
 This is a side project I made during making another game called Brain Burst 2039, which I will talk about later in this post. The player can fly around in the game to collect points and power-ups. It's still not very fun for me, but it's (kind of) a complete game with some pixel arts and sounds.
 
 You can check it out here: 
+
 [GitHub Repository](https://github.com/dymani/Aviate)
+
 [Direct download (.zip)](https://github.com/dymani/Aviate/raw/master/Aviate%20v1.0.zip)
 
 <br>
