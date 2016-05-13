@@ -22,8 +22,7 @@ In this blog post, I will talk about some progress I made before I set up this d
 
 <br>
 <b>
-<h3>First game - Snake</h3>
-</b>
+<h3>First game - Snake</h3></b>
 <br>
 
 ![](/assets/image/blog/blog_13-05-16_snake.png)
@@ -34,8 +33,7 @@ I made the third one using SFML and the graphics is much better. Still a simple 
 
 <br>
 <b>
-<h3>Mazy</h3>
-</b>
+<h3>Mazy</h3> </b>
 <br>
 
 ![](/assets/image/blog/blog_13-05-16_mazy.png)
@@ -44,11 +42,11 @@ After making a few clones of Snake, I made this maze game called Mazy (stupid na
 
 It is my first trial to make a game that loads contents dynamically and I learnt a lot through making this.
 
-<br>
 <b>
-<h3>Aviate</h3>
-</b>
 <br>
+<h3>Aviate</h3>
+<br>
+</b>
 
 ![](/assets/image/blog/blog_13-05-16_aviate.png)
 
@@ -61,7 +59,6 @@ You can check it out here:
 <br>
 <b>
 <h3>Brain Burst 2039</h3>
-</b>
 <br>
 
 ![](/assets/image/blog/blog_13-05-16_bb2039.png)
