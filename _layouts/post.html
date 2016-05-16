@@ -38,7 +38,7 @@ layout: default
 {% if page.next.url %} 
 <div class="arrowLeft">
 <a id="route" class="tooltip-right" href="{{page.next.url | prepend: site.baseurl}}" title="
-&lt;p class=hoveratas&gt;{{page.next.title}}&lt;/p&gt; &lt;p class=hoverbawah&gt;{% if post.content contains '<!--arrow-->' %}{{ page.next.content | split:'<!--arrow-->' | last | strip_html | truncatewords:10}}{% else %}{{ page.next.content | strip_html | truncatewords:10}}{% endif %}&lt;/p&gt;
+&lt;p class=hoveratas&gt;{{page.next.title}}&lt;/p&gt; &lt;p class=hoverbawah&gt;{{ page.next.content | split:'<!--arrow-->' | last | strip_html | truncatewords:10}}&lt;/p&gt;
 "><i class="typcn typcn-chevron-left" style="    font-size: 30px;
     position: relative;
    
@@ -49,7 +49,7 @@ layout: default
 {% if page.previous.url %} 
 <div class="arrowRight" style="float:right">
 <a id="route" class="tooltip-left" href="{{page.previous.url | prepend: site.baseurl}}" title="
-&lt;p class=hoveratas&gt;{{page.previous.title}}&lt;/p&gt; &lt;p class=hoverbawah&gt;{% if post.content contains '<!--arrow-->' %}{{ page.previous.content | split:'<!--arrow-->' | last | strip_html | truncatewords:10}}{% else %}{{ page.previous.content | strip_html | truncatewords:10}}{% endif %}&lt;/p&gt;
+&lt;p class=hoveratas&gt;{{page.previous.title}}&lt;/p&gt; &lt;p class=hoverbawah&gt;{{ page.previous.content | split:'<!--arrow-->' | last | strip_html | truncatewords:10}}&lt;/p&gt;
 "><i class="typcn typcn-chevron-right" style="    font-size: 30px;
     position: relative;
    
