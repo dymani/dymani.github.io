@@ -23,8 +23,8 @@ layout: default
     <section class="post-excerpt">
 
         <p>
-            {% if post.content contains '<!--break-->' %}
-                {{ post.content | split:'<!--break-->' | first }}
+            {% if post.content contains '<!--index-->' %}
+                {{ post.content | split:'<!--index-->' | first }}
                 ...<br><a id="route" class="read-more" href="{{ post.url | prepend: site.baseurl }}">» Read More</a>
             {% else %}
                 {{ post.content }}

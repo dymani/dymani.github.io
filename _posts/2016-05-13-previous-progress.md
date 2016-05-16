@@ -17,8 +17,8 @@ image:
 ---
 
 ![](/assets/image/blog/blog_13-05-16.png)
-
-In this blog post, I will talk about some progress I made before I set up this devblog. I have been learning programming for only one and a half year so there ain't many games acutally.<!--break--> :P
+<!--arrow-->
+In this blog post, I will talk about some progress I made before I set up this devblog. I have been learning programming for only one and a half year so there ain't many games acutally.<!--index--> :P
 
 <br>
 <h3><b>First game - Snake</b></h3>
