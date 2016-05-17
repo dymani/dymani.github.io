@@ -1,4 +1,3 @@
-# spaghetti.ga
-Personal Blog
-# License
-MIT
+# dymani.github.io
+Personal devblog by dymani.
+Website template designed by Spaghetti.
